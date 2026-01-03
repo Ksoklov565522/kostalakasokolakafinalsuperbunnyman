@@ -11,6 +11,10 @@ header {
     margin-bottom: 20px;
 }
 
+a{
+    color:"#40e0d0"
+}        
+
 .button {
     background-color: #36bbce;
     color: black;
